@@ -1,0 +1,2 @@
+rename your game file to "main.py" and make sure it's using pyengine. Then, import the build_file into where main.py is and excute it.
+
